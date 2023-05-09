@@ -1,2 +1,5 @@
-Name: Syed Jafri
-Emp ID:2147237
+Name: syed
+Emp ID:1223456
+Organization:Cognizant
+location:Noida
+
