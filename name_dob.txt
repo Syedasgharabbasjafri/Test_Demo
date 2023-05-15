@@ -1,2 +1,3 @@
 Name:Syed Jafri
 DOB:14/01/2000
+Location:Aligarh
