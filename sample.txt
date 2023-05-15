@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Name: syed
 Emp ID:1223456
 Organization:Cognizant
 location:Noida
+=======
+Name: XYZA
+Emp ID:12234566
+Organization:csss
+>>>>>>> 074f52954a8a5660c1f2aac7d436b71b36725c8a
 
